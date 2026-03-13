@@ -92,7 +92,7 @@ def delete_book():
 
 # main menu
 while True:
-    print("===== Library Management System =====")
+    print("====== Library Management System ======")
     print("1. Add Book")
     print("2. View Books")
     print("3. Search Book")
@@ -119,3 +119,4 @@ while True:
         break
     else:
         print("Invalid choice\n")
+
