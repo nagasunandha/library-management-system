@@ -17,19 +17,5 @@ A simple **Library Management System** built using **Python** that allows users 
 - Python 3
 - JSON (`library.json`) for data storage
 
-## 📂 Project Structure
-
-```
-library-management-system/
-│── main.py
-│── library.json
-│── README.md
-```
 
 
-
-
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
